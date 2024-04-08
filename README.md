@@ -1,6 +1,8 @@
 
 # TABLEAU: WASHINGTON HOUSE SALES DASHBOARD
 
+https://public.tableau.com/shared/DJXXS7MSM?:display_count=n&:origin=viz_share_link
+
 ### Project Overview
 
 The "Washington House Sales Dashboard" project aims to provide visual insights into the housing market in Washington through interactive Tableau dashboards. The project comprises various visualizations depicting different aspects of house sales, including average prices, geographical distribution, room conditions, bedroom distribution, house price distribution, and sales trends over time.
